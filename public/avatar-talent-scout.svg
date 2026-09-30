@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <circle cx="64" cy="64" r="64" fill="#E9E2F0"/>
+  <!-- person silhouette -->
+  <g stroke="#191512" stroke-width="5" fill="none" stroke-linecap="round">
+    <circle cx="56" cy="46" r="12"/>
+    <path d="M34 88c2-14 11-20 22-20 8 0 15 3 19 9"/>
+  </g>
+  <!-- magnifier -->
+  <g stroke="#191512" stroke-width="5" fill="none" stroke-linecap="round">
+    <circle cx="82" cy="76" r="14" fill="#E9E2F0"/>
+    <line x1="92" y1="86" x2="102" y2="96"/>
+  </g>
+</svg>

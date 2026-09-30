@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <circle cx="64" cy="64" r="64" fill="#F6DCC8"/>
+  <!-- funnel -->
+  <g stroke="#191512" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 34h56l-22 26v20l-12 8V60z"/>
+  </g>
+  <!-- arrow leaving funnel -->
+  <g stroke="#191512" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M74 76h24"/>
+    <path d="M90 68l10 8-10 8"/>
+  </g>
+</svg>

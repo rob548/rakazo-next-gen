@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <circle cx="64" cy="64" r="64" fill="#DDE7DD"/>
+  <!-- envelope -->
+  <g stroke="#191512" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="28" y="44" width="58" height="42" rx="6"/>
+    <path d="M30 50l27 20 27-20"/>
+  </g>
+  <!-- sweep arrow -->
+  <g stroke="#191512" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 88a30 30 0 0 1-58 8"/>
+    <path d="M88 78v10h-10"/>
+  </g>
+</svg>
