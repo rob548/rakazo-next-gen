@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <circle cx="64" cy="64" r="64" fill="#F6C9B4"/>
+  <!-- crossed calendar grid -->
+  <g stroke="#191512" stroke-width="5" fill="none" stroke-linecap="round">
+    <rect x="34" y="38" width="44" height="40" rx="6"/>
+    <line x1="34" y1="52" x2="78" y2="52"/>
+    <line x1="48" y1="32" x2="48" y2="42"/>
+    <line x1="64" y1="32" x2="64" y2="42"/>
+    <line x1="48" y1="60" x2="48" y2="70"/>
+    <line x1="64" y1="60" x2="64" y2="70"/>
+  </g>
+  <!-- star glyph -->
+  <path d="M92 68l4.2 8.6 9.4 1.4-6.8 6.6 1.6 9.4-8.4-4.4-8.4 4.4 1.6-9.4-6.8-6.6 9.4-1.4z" fill="#191512"/>
+</svg>

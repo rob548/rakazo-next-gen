@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <circle cx="64" cy="64" r="64" fill="#DCE4EC"/>
+  <!-- two overlapping chat bubbles -->
+  <g stroke="#191512" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 40h38a8 8 0 0 1 8 8v16a8 8 0 0 1-8 8H50l-12 10v-10h-8a8 8 0 0 1-8-8V48a8 8 0 0 1 8-8z" fill="#DCE4EC"/>
+    <path d="M60 62h30a8 8 0 0 1 8 8v14a8 8 0 0 1-8 8h-4v9l-11-9H66a8 8 0 0 1-8-8v-6"/>
+  </g>
+</svg>

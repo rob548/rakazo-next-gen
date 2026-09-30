@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <circle cx="64" cy="64" r="64" fill="#F0D3CE"/>
+  <!-- beetle outline -->
+  <g stroke="#191512" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="56" cy="66" rx="18" ry="22"/>
+    <line x1="56" y1="46" x2="56" y2="86"/>
+    <path d="M44 48l-8-10M68 48l8-10"/>
+    <path d="M38 60h-10M38 72h-10M74 60h8M74 72h8"/>
+  </g>
+  <!-- tag -->
+  <g stroke="#191512" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M78 30h18v18l-16 16-18-18z" fill="#F0D3CE"/>
+    <circle cx="88" cy="40" r="2.5" fill="#191512"/>
+  </g>
+</svg>
